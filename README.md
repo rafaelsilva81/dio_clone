@@ -1,9 +1,5 @@
-## Template pessoal fullstack
+# Clone DIO
 
-### pacotes instalados
-- NextJS
-- Tailwind CSS
-- Prisma (não configurado, utilizar `npx prisma init`)
-- Next-auth (não configurado)
+### Feito para o curso Orange Tech + Digital Innovation One - Bootcamp Inter
 
-Remover quaisquer pacotes nao utilizados antes do deploy
+#### feito com TypeScript, NextJS, TailwindCSS
